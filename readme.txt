@@ -7,4 +7,8 @@ how you are workin?
 =======
 to execute the program"css..!
 >>>>>>> css-assignments
+<<<<<<< HEAD
 executed the js file
+=======
+return js-code
+>>>>>>> js-assignments
