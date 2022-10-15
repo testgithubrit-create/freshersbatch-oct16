@@ -1,2 +1,3 @@
 hello 
 i am working with js1 file
+pushing to git hub
